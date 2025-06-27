@@ -1,0 +1,4 @@
+event,required_property
+abandon_tool,tool
+abandon_tool,interaction_type
+test_event,test_property
